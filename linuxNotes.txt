@@ -1,0 +1,4 @@
+Terminal - command line interface
+shell - command interptreter
+bash - type of shell/scripting language
+console - command line interface
