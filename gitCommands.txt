@@ -1,0 +1,3 @@
+git remote add remoteName remoteUrl
+git pull remoteName branchName
+git push remoteName branchName
